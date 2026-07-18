@@ -6,7 +6,7 @@ A machine learning pipeline for predicting in-hospital mortality of ICU patients
 [WiDS Datathon 2020](https://www.kaggle.com/competitions/widsdatathon2020) — 91,713 ICU patient records with 186 clinical features including vitals, lab values, demographics, and APACHE severity scores.
 
 ## Notebook
-[View Notebook on nbviewer](#)
+[View Notebook Here](https://github.com/Adyan213/ICU-Mortality-Prediction/blob/main/icu-mortality-prediction.ipynb)
 
 ## Pipeline
 - Dropped 55 features with >70% missing values
