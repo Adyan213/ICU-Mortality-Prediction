@@ -1,4 +1,4 @@
-# ICU Mortality Prediction
+# WiDS Datathon 2020 Mortality Prediction
 
 A machine learning pipeline for predicting in-hospital mortality of ICU patients using clinical data, built with scikit-learn and XGBoost.
 
