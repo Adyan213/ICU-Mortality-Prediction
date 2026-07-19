@@ -47,5 +47,9 @@ SHAP values confirm the model learned clinically coherent patterns:
 - Day 1 vitals — low SpO2, low blood pressure, high BUN all increase mortality risk
 - Elective surgery — strongest protective factor, planned procedures indicate healthier baseline
 
+## Related Projects
+
+[MIMIC-IV ICU Mortality Prediction](https://github.com/Adyan213/MIMIC-IV-Mortality-Prediction) — an extension of this work using real restricted-access MIMIC-IV data with direct SQL extraction, showing consistent findings across SOFA score removal
+
 ## Tech Stack
 Python, XGBoost, scikit-learn, SHAP, pandas, matplotlib
